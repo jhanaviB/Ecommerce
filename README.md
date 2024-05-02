@@ -8,4 +8,6 @@ Inventory service with mysql running in a docker container and migration for sql
 
 Spring Cloud OpenFeign is used to communicate between the order and inventory services to check if the item to be ordered is in stock or not.
 
-![alt text](https://github.com/jhanaviB/Acheter/blob/main/picture1.PNG?raw=true
+Custom Runtime Exception when item quantity in stock doesn't exceed or equal quantity wanting to be ordered.
+![alt text] (https://github.com/jhanaviB/Acheter/blob/main/picture1.PNG?raw=true)
+
