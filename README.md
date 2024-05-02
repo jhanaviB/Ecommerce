@@ -6,4 +6,4 @@ Order service with mysql running in a docker container and migration for sql que
 **ii) Inventory service:** 
 Inventory service with mysql running in a docker container and migration for sql queries done using Flyway.
 
-
+Spring Cloud OpenFeign is used to communicate between the order and inventory services to check if the item to be ordered is in stock or not.
