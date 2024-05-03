@@ -1,4 +1,4 @@
-# Acheter: Ecommerce app using Microservices, Spring Boot, Spring Cloud, Key Cloak, Grafana and Prometheus.
+# Acheter: Ecommerce app using Microservices, Spring Boot, Spring Cloud, Key Cloak, Grafana, Prometheus and Swagger for documentation.
 
 **i) Order service :** 
 **ii) Inventory service:** 
